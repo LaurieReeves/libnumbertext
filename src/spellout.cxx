@@ -1,3 +1,4 @@
+#include "config.h"
 #include "Numbertext.hxx"
 #include "numbertext-version.h"
 #include <cstring>
